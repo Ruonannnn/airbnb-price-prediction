@@ -23,7 +23,7 @@ Neighborhoods were categorized based on listing availability:
 - **Medium Availability** (e.g., Williamsburg, East Village): Balanced supply-demand → Use dynamic pricing
 - **High Availability** (e.g., Bath Beach, Willowbrook): High vacancy → Require competitive pricing
 <p align="center">
-  <img src="Plant leaves.png" width="900">
+  <img src="distribution map.png" width="600">
 </p>
 
 #### Correlation Analysis
